@@ -347,7 +347,11 @@ img {
  
 }
 .a{
-  color: blue;
+  color:white;
+  background-color: rgb(47, 57, 235);
+  font-weight: 500;
+  padding: 10px 20px;
+  border-radius: 8px;
 }
 
 .none{
